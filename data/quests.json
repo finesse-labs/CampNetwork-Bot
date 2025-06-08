@@ -1,0 +1,48 @@
+[
+    {"name": "belgrano", "user_id": "1333998722699718656", "ruleId": "1cdb82f7-7878-46fc-baec-b75d6e414a25", "type": "follow"},
+    {"name": "camp", "user_id": "1582415049007800322", "ruleId": "2660f24a-e3ac-4093-8c16-7ae718c00731", "type": "follow"},
+    {"name": "kraft", "user_id": "1786428970021306368", "ruleId": "39b41034-ce80-4057-8cca-e95992182f04", "type": "follow"},
+    {"name": "pictograph", "user_id": "1615813996501733389", "ruleId": "4e467350-a49b-4413-8fce-4d424d3303bb", "type": "follow"},
+    {"name": "score", "user_id": "1739331570429747200", "ruleId": "5f03c7d8-8ee0-443f-a0ad-8fda68dfecd8", "type": "follow"},
+    {"name": "cristal", "user_id": "1881479792266199040", "ruleId": "17681189-fd69-4aa3-b533-8f452c1bab0c", "type": "follow"},
+    {"name": "story", "user_id": "1700882926089424896", "ruleId": "4cebe3ff-4dae-4858-9323-8b669d80e45c", "type": "follow"},
+    {"name": "summit", "user_id": "1893249842526244864", "ruleId": "12b177a5-aa4e-47c6-aaa9-b14bf9481d0a", "type": "follow"},
+    {"name": "token", "user_id": "1769745217056387072", "ruleId": "cf5a23b1-d48c-4ab9-a74c-785394158224", "type": "follow"},
+    {"name": "pets", "user_id": "1874938653744508928", "ruleId": "242ab4dc-2df4-4b97-bcd7-b013ff6635a1", "type": "follow"},
+    {"name": "clusters", "user_id": "1699407750298492928", "ruleId": "c7d0e2c8-87e7-46df-81f3-48f311735c22", "type": "follow"},
+    {"name": "juke", "user_id": "1862216008792002560", "ruleId": "02e3d5b3-e65e-41c8-b159-405f48255cdf", "type": "follow"},
+    {"name": "panenka", "user_id": "1709136004916117504", "ruleId": "040ead29-7436-4457-b7cd-8bd2a8855a49", "type": "follow"},
+    {"name": "pixudi", "user_id": "1538531617685258241", "ruleId": "009c0d38-dc3c-4d37-b558-38ece673724a", "type": "follow"},
+    {"name": "ww", "user_id": "1869153293538148353", "ruleId": "e47be0b8-eedc-445e-a53e-b2f05daabe3c", "type": "follow"},
+    {"name": "entertain", "user_id": "1487501359326892034", "ruleId": "beb6df6d-b225-46e5-8a4f-20ad967fb4a8", "type": "follow"},
+    {"name": "bleetz", "user_id": "968162622028861440", "ruleId": "01bc9433-359f-4403-9bc8-4295d47dc3c8", "type": "follow"},
+    {"name": "arcoin", "user_id": "1807083872800354304", "ruleId": "b852ec9b-7af5-4f07-a677-1bc630bf4579", "type": "follow"},
+    {"name": "awana", "user_id": "1784651286719193088", "ruleId": "1a81cbe5-a792-4921-baa0-0c36165e0d7c", "type": "follow"},
+    {"name": "merv", "user_id": "1826623713216692224", "ruleId": "e71a8c69-36b3-46fb-9a26-b6e0d4757d1d", "type": "follow"},
+    {"name": "merv_toon", "user_id": "1917871653742321664", "ruleId": "0bb973c0-fa9d-4779-829d-ef18a8fbd3b0", "type": "follow"},
+    
+    {"name": "JukeBlox", "user_id": null, "ruleId": "46a1b202-ab7b-4c29-bf13-417c6a8267af", "type": "social"},
+    {"name": "Pixudi", "user_id": null, "ruleId": "9f8edb41-4867-48e0-8d7a-8437c2c6e1b1", "type": "social"},
+    {"name": "Arcoin", "user_id": null, "ruleId": "aa08b2a5-eaab-469c-9e6f-e3a380c23faa", "type": "social"},
+    {"name": "Awana", "user_id": null, "ruleId": "9b87193e-c568-4a72-915d-1bdba060b00e", "type": "social"},
+    {"name": "Kraft", "user_id": null, "ruleId": "f4de4fa8-ad5c-45c9-a804-0483309de9f9", "type": "social"},
+    {"name": "Pictographs", "user_id": null, "ruleId": "2233dcaa-a2be-49fb-b322-28bf9d387475", "type": "social"},
+    {"name": "Rewarded", "user_id": null, "ruleId": "d7a3a18b-38fd-45d5-937a-f974dff403bd", "type": "social"},
+    {"name": "ScorePlay", "user_id": null, "ruleId": "e7c0f882-82b7-499e-8a05-40528e0047ee", "type": "social"},
+    {"name": "StoryChain", "user_id": null, "ruleId": "4345ec66-0746-4a77-85d0-a79db42612b1", "type": "social"},
+    {"name": "TokenTails", "user_id": null, "ruleId": "06b0d411-c1df-4cc5-a72c-e47dc911a0b3", "type": "social"},
+    {"name": "PanenkaFC", "user_id": null, "ruleId": "be50eaa0-945a-4664-8d07-a2f02167cf38", "type": "social"},
+    {"name": "SummitX Discord", "user_id": null, "ruleId": "3dfca204-edf2-461a-8fda-4067b09241a7", "type": "social"},
+    {"name": "SummitX TG", "user_id": null, "ruleId": "861e2917-3725-48ba-b8b9-4466cd81fe72", "type": "social"},
+
+    {"name": "Summit App", "user_id": null, "ruleId": "211c9b79-ff65-42f8-a59a-ad0539129aa9", "type": "social"},
+    {"name": "Story App", "user_id": null, "ruleId": "541ff274-95c5-409a-9ea2-c80ec2719d7e", "type": "social"},
+
+    {"name": "Bleetz mint", "user_id": null, "ruleId": null, "task_id" : "bleetz_mint", "type": "custom"},
+    {"name": "Bleetz Id", "user_id": null, "ruleId": "3ea83621-0087-4fc1-9967-c21265e2c369", "type": "social"},
+
+    {"name": "Pictographs mint", "user_id": null, "ruleId": null, "task_id" : "pictographs_mint", "type": "custom"},
+    {"name": "Pictographs TG_bot", "user_id": null, "ruleId": "2ba6c29a-69a1-4ff8-ac61-f4b19431f8d2", "type": "social"},
+
+    {"name": "claim_faucet", "user_id": null, "ruleId": null, "type": "faucet"}
+]

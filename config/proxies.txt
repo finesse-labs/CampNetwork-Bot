@@ -1,0 +1,2 @@
+http://login:pass@ip:port
+

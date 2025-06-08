@@ -1,0 +1,54 @@
+# Python bytecode и кэши
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальная среда
+menv/
+venv/
+env/
+.env/
+.venv/
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Чувствительные данные
+*.env
+*.key
+*.pem
+*.json  # Если хранишь cookies или ключи в JSON
+secrets/
+config.ini
+credentials/
+
+# Временные файлы
+*.bak
+*.swp
+*~
+
+# Дистрибутивы и сборки
+dist/
+build/
+*.egg-info/
+
+# Тестовые и отладочные файлы
+.pytest_cache/
+.coverage
+coverage.xml
+*.cov
+
+# Локальные зависимости
+*.egg
+*.eggs/
+wheels/
+pip-wheel-metadata/
+
+# Документация (если генерируешь)
+docs/_build/
